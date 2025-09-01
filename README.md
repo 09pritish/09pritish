@@ -3,7 +3,7 @@
 <td width="250">
 </td>
 <td>
-  <h1>👋 Hi! I'm Pritishv</h1>
+  <h1>👋 Hi! I'm Pritish</h1>
   <h3>I’m a full-stack developer passionate about transforming concepts into impactful web and mobile applications.<br>
     My expertise lies in the MERN stack, with a strong interest in machine learning.</h3>
 </td>
